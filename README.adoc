@@ -1,5 +1,8 @@
 = NetBeans Platform Tutorials
 
-These are the NetBeans Platform Tutorials, as donated by Oracle to the Apache Software Foundation.
+These are the NetBeans Platform Tutorials, prepared to run with Antora.
+
+For instructions on how to process these files, see the link:https://github.com/vieiro/netbeans-docs-antora[main documentation repository].
+
 
 

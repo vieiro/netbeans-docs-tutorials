@@ -1,0 +1,8 @@
+* Introduction
+** xref:nbm-learning-trail.adoc[NetBeans Platform Learning Trail]
+** xref:nbm-10-top-apis.adoc[Videos: Top 10 NetBeans APIs]
+* NetBeans concepts
+** xref:nbm-glossary.adoc[Basic concepts: platform, cluster, module]
+** xref:nbm-idioms.adoc[FileSystems, Data Loaders, Nodes and Lookup]
+* Quick Start
+** xref:nbm-quick-start.adoc[NetBeans Platform Quick Start]

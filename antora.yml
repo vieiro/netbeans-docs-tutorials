@@ -1,5 +1,5 @@
-name: netbeans-platform-tutorials
-version: '1.0'
+name: tutorials
 title: NetBeans Platform Tutorials
-
-
+version: ~
+nav:
+- modules/ROOT/nav.adoc
